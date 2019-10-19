@@ -1,5 +1,6 @@
-# Screenshot
+ This software is released under the MIT License, see LICENSE.txt.
 
+# Screenshot
 ![screenshot](https://github.com/nomura-lab/dps/blob/images/screenshot.png)
 
 # How to install
