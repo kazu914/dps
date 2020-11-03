@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/nomura-lab/dps/api"
+	"github.com/kazu914/dps/api"
 	"github.com/urfave/cli"
 )
 
