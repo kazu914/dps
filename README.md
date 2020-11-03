@@ -1,4 +1,8 @@
  This software is released under the MIT License, see LICENSE.txt.
+ 
+ # What's `dps`
+ 
+ `dps` shows the lists of the processes running in your all containers.
 
 # Screenshot
 ![screenshot](https://github.com/nomura-lab/dps/blob/images/screenshot.png)
@@ -15,7 +19,7 @@ wget -O - https://github.com/nomura-lab/dps/releases/download/v1.0.0/dps_1.0.0_l
 ./dps
 ```
 
-When you get blow error,
+When you get the blow error,
 
 ```
 panic: Error response from daemon: client version <x.xx> is too new. Maximum supported API version is <y.yy>
