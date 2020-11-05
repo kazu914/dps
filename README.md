@@ -5,12 +5,12 @@
  `dps` shows the lists of the processes running in your all containers.
 
 # Screenshot
-![screenshot](https://github.com/nomura-lab/dps/blob/images/screenshot.png)
+![screenshot](https://github.com/kazu914/dps/blob/images/screenshot.png)
 
 # How to install
 
 ```
-wget -O - https://github.com/nomura-lab/dps/releases/download/v1.0.0/dps_1.0.0_linux_amd64.tar.gz | tar zxvf -
+wget -O - https://github.com/kazu914/dps/releases/download/v1.0.0/dps_1.0.0_linux_amd64.tar.gz | tar zxvf -
 ```
 
 # How to use
